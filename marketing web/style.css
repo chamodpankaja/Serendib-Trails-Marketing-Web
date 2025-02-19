@@ -226,7 +226,7 @@ section.home{
     height: 100%;
     top: 0;
     left: 0;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.6);
     z-index: 1;
 }
 .home .banner .text-wrapper{
@@ -241,7 +241,7 @@ section.home{
     font-weight: 700;
     line-height: 1.3;
     margin-bottom: 30px;
-    color: #0B5739;
+    color: #fefefe;
 }
 .home .banner .text-wrapper h3{
     font-size: 25px;
